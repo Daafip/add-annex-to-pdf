@@ -8,4 +8,4 @@ The code reads the pdf, looks for a user sepecified symbol, e.g. `**__**` which 
 Requires a python install and PyPDF2/pikepdf, for development jupyter lab was used. 
 
 # Useage
-Feel free to use!
+Feel free to use! Advised is to use [a github client to clone](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop).
